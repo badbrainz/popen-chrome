@@ -13,7 +13,7 @@ set desc=%name% host file
 set exe=%name%.exe
 set host=com.%name%
 set json=com.%name%.json
-set origin=coknncgojjnjggojahgidgmgocknkick
+set origin=fbbbambpgamdpfjihafdpbehndhjifdf
 @echo {^
  "name": "%host%",^
  "description": "%desc%",^

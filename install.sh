@@ -6,7 +6,7 @@ APP=popenchrome
 DESCRIPTION="$APP host file"
 HOST=com.$APP
 JSON=$HOST.json
-ORIGIN=dahjdeabeapigcoofhjbcjmokikgjmfg
+ORIGIN=fbbbambpgamdpfjihafdpbehndhjifdf
 
 DIR="$( cd "$( dirname "$0" )" && pwd )"
 if [ "$(whoami)" == "root" ]; then
