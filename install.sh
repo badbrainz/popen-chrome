@@ -8,7 +8,7 @@ HOST=com.$APP
 JSON=$HOST.json
 ORIGIN=fbbbambpgamdpfjihafdpbehndhjifdf
 
-DIR="$( cd "$( dirname "$0" )" && pwd )"
+DIR="${1:-"$( cd "$( dirname "$0" )" && pwd )"}"
 if [ "$(whoami)" == "root" ]; then
     TARGET_DIR="/etc/opt/chrome/native-messaging-hosts"
 else
